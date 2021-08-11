@@ -5,7 +5,6 @@
     font-size: 30px;
     line-height: 36px;
     text-align: center;
-    margin-top: 32px;
 }
 
 @media screen and (max-width: 720px) {
@@ -17,6 +16,11 @@
         line-height: 20px;
     }
 }
+
+
+/*  there is a special line break in the figma design that cannot 
+    be achieved with container width change. without this break the
+    subtitle looks ugly and illiterate */
 
 @media screen and (max-width: 420px) {
     .line-one::after {

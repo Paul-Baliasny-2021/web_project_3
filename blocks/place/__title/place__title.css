@@ -7,7 +7,6 @@
 
 @media screen and (max-width: 960px) {
     .place__title {
-        font-weight: 900;
         font-size: 42px;
         line-height: 46px;
     }
@@ -17,7 +16,6 @@
     .place__title {
         padding-left: 16px;
         max-width: 90%;
-        font-weight: 900;
         font-size: 32px;
         line-height: 35px;
     }
