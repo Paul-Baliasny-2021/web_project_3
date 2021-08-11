@@ -5,3 +5,5 @@ This is a project about traveling across the US. It provides information about a
 The page works on all modern screens.
 
 The project deals with responsive and adaptive layouts from large desktop to small smartphone screens. Techniques used: flex and grid layout, media queries, transitions.
+
+url:
