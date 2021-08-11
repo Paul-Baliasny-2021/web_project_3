@@ -12,7 +12,3 @@
         line-height: 20px;
     }
 }
-
-.header__language-link:hover {
-    text-decoration: underline;
-}
