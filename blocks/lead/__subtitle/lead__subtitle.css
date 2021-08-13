@@ -10,21 +10,8 @@
 @media screen and (max-width: 720px) {
     .lead__subtitle {
         max-width: 288px;
-        margin: 0;
         padding-top: 16px;
         font-size: 16px;
         line-height: 20px;
-    }
-}
-
-
-/*  there is a special line break in the figma design that cannot 
-    be achieved with container width change. without this break the
-    subtitle looks ugly and illiterate */
-
-@media screen and (max-width: 420px) {
-    .line-one::after {
-        content: "\a";
-        white-space: pre;
     }
 }
